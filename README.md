@@ -23,7 +23,7 @@
 ```
 C:/Users/(ユーザー名)/Appdata/LocalLow/VRChat/vrchat
 ```
-に格納されています。
+にoutput_log_(実験を行った日時).txtという形で格納されています。
 
 ![](images/Operation.png)
 
