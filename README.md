@@ -7,4 +7,8 @@
 現在このリポジトリに格納されているファイルは
 - Data_Analysis.ipynb
 
-のみです。
+のみです。このファイルをクリックして、下の画像のようにダウンロードしてください。
+
+![](images/Download.png)
+
+このファイルはGoogleColaboratory内で動きます。検索窓に「googlecolab」と入力すると
